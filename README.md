@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer at work" />
 </p>
 
-<h1 align="center">Hi there, I'm Piotr Kowalski 👋</h1>
+<h1 align="center">Hi there, I'm a Senior Web Developer 👋</h1>
 
 <p align="center">
   <strong>Senior Web Developer | React & Node.js Expert | Django Enthusiast</strong><br/>

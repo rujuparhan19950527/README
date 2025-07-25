@@ -99,8 +99,7 @@
 
 ## 🌐 Contact
 
-📫 **Email:** [codespecter0527@gmail.com](mailto:codespecter0527@gmail.com)  
-🔗 **Portfolio:** [piotr-kowalski-portfolio.vercel.app](https://piotr-kowalski-portfolio.vercel.app)
+📫 **Email:** [rujuparhan@gmail.com](mailto:rujuparhan@gmail.com)  
 
 ---
 
